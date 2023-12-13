@@ -1,0 +1,1 @@
+# Securentra-Management-System-NPR-using-Tesseract
