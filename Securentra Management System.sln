@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Securentra Management System", "Securentra Management System\Securentra Management System.csproj", "{BE2DDC05-92C8-43FF-AF06-2D68E4DB393E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SecurentraSetup", "SecurentraSetup\SecurentraSetup.vdproj", "{0487023D-4B64-489D-A3D1-C3D1182FC179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2DDC05-92C8-43FF-AF06-2D68E4DB393E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2DDC05-92C8-43FF-AF06-2D68E4DB393E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2DDC05-92C8-43FF-AF06-2D68E4DB393E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2DDC05-92C8-43FF-AF06-2D68E4DB393E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0487023D-4B64-489D-A3D1-C3D1182FC179}.Debug|Any CPU.ActiveCfg = Debug
+		{0487023D-4B64-489D-A3D1-C3D1182FC179}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7FB034-E702-4D10-B47E-3A2FDD258750}
+	EndGlobalSection
+EndGlobal
